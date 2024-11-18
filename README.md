@@ -5,12 +5,12 @@ Font DB Ozone (ทำงานภายใต้  CDN)
 
 Link 
 ```
-https://cdn.jsdelivr.net/gh/cpx2017/dbozonefont@latest/style.css
+https://cdn.jsdelivr.net/gh/cpxdevth/dbozonefont@latest/style.css
 ```
 
 สำหรับ HTML Tag 
 ```
-<link href='https://cdn.jsdelivr.net/gh/cpx2017/dbozonefont@latest/style.css' rel='stylesheet'>
+<link href='https://cdn.jsdelivr.net/gh/cpxdevth/dbozonefont@latest/style.css' rel='stylesheet'>
 ```
 
 ตัวอย่างการแสดงผลฟ้อนต์หลังเรียกใช้งานที่ https://cpx2017.github.io/dbozoneFont
